@@ -1,4 +1,4 @@
-# 🎵 Sound AImagination# AI Audio-to-Image Pipeline
+#  Sound AImagination# AI Audio-to-Image Pipeline
 
 
 
@@ -28,15 +28,15 @@ Sound AImagination is an innovative audio-to-image generation pipeline that reco
 
 - 🎤 **Audio Recording**: Record 10 seconds of any sound
 
-- 🔊 **Sound Analysis**: AI-powered audio classification using Google's YAMNet (521 sound classes)### Python Libraries
+- 🔊 **Sound Analysis**: AI-powered audio classification using Google's YAMNet Python Libraries
 
 - ⏱️ **Timeline Detection**: Tracks what sounds occurred at what timesInstall dependencies with:
 
-- 🤖 **Creative Prompt Generation**: Uses LM Studio to create artistic image prompts```bash
+- 🤖 **Creative Prompt Generation**: Uses LM Studio to create artistic image prompts
 
 - 🎨 **Image Generation**: Produces unique images with Stable Diffusionpip install -r requirements.txt
 
-- 📱 **Modern GUI**: Beautiful step-by-step interface with phone app design```
+- 📱 **Modern GUI**: Beautiful step-by-step interface with phone app design
 
 - 📊 **Real-time Progress**: Visual feedback throughout the entire process
 
@@ -46,7 +46,7 @@ Sound AImagination is an innovative audio-to-image generation pipeline that reco
 
 1. **Install dependencies:**
 
-## 🎯 How It Works   ```bash
+## 🎯 How It Works 
 
    pip install -r requirements.txt
 
