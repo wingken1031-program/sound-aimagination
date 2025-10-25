@@ -9,13 +9,13 @@
 Sound AImagination is an innovative audio-to-image generation pipeline that records sounds, analyzes them with AI, creates creative prompts, and generates unique images. Experience the magic of turning your voice, music, or any sound into beautiful visual art.2. Uses YAMNet (via TensorFlow Hub) to classify and describe the audio
 
 3. Sends the description to LM Studio to generate an enhanced visual prompt
+4. Uses Stable Diffusion to generate an image from the enhanced prompt
 
-![Python](https://img.shields.io/badge/Python-3.13-blue)4. Uses Stable Diffusion to generate an image from the enhanced prompt
+![Python](https://img.shields.io/badge/Python-3.13-blue)
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)## Requirements
-
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
 
 ---### Software
