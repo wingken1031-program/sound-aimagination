@@ -43,5 +43,23 @@ Sound AImagination is an innovative audio-to-image generation pipeline that reco
 
 If you find this project fun&creative, please consider giving it a star! ⭐
 
+## Quickstart (Windows PowerShell)
+
+1. Create a virtual environment (optional but recommended):
+```
+py -3 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
+
+2. Install dependencies:
+```
+pip install -r requirements.txt
+```
+
+3. Run the app:
+```
+gui_app_steps.py
+```
+
 
 
