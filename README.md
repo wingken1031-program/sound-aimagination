@@ -55,8 +55,9 @@ py -3 -m venv .venv
 ```
 pip install -r requirements.txt
 ```
-
-3. Run the app:
+3. Install and Open LM studio - Load any language model & Click **Start Server** (default port: 1234)
+   
+4. Run the app:
 ```
 gui_app_steps.py
 ```
