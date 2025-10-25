@@ -1,4 +1,4 @@
-#  Sound AImagination# AI Audio-to-Image Pipeline
+#  Sound AImagination #
 
 
 
@@ -41,8 +41,7 @@ Sound AImagination is an innovative audio-to-image generation pipeline that reco
 - 📊 **Real-time Progress**: Visual feedback throughout the entire process
 
 
-If you find this project useful, please consider giving it a star! ⭐
+If you find this project fun&creative, please consider giving it a star! ⭐
 
----
 
-**Made with ❤️ and AI**
+
