@@ -1,0 +1,29 @@
+# Audio recording and processing
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.26.0
+
+# Audio classification with YAMNet
+# TensorFlow 2.16+ supports Python 3.13
+tensorflow>=2.16.0
+tensorflow-hub>=0.16.0
+
+# LM Studio API integration
+requests>=2.31.0
+
+# Stable Diffusion
+# Updated versions for Python 3.13 compatibility
+diffusers>=0.30.0
+transformers>=4.40.0
+accelerate>=0.30.0
+safetensors>=0.4.3
+torch>=2.3.0
+
+# Image handling
+Pillow>=10.3.0
+
+# Utilities
+tqdm>=4.66.1
+
+# GUI
+kivy>=2.3.0
